@@ -12,28 +12,6 @@ Industrial Engineering · Optimization · Manufacturing Systems · Data Science
 
 </div>
 
-## Core Competencies
-
-<table>
-  <tr>
-    <td><b>Optimization</b></td>
-    <td>Optimization Modeling · Operations Research · Metaheuristics · QUBO · Computational Optimization</td>
-  </tr>
-  <tr>
-    <td><b>Manufacturing Systems</b></td>
-    <td>Production Systems · Facility Layout · Logistics Systems · Quality Control · Simulation</td>
-  </tr>
-  <tr>
-    <td><b>Data Science & AI</b></td>
-    <td>Machine Learning · Data Mining · Deep Learning · Database · Algorithms</td>
-  </tr>
-  <tr>
-    <td><b>Ergonomics</b></td>
-    <td>Work Design · Human Factors · Decision Analysis</td>
-  </tr>
-</table>
-
----
 
 ## Prerequisite & Coursework
 
