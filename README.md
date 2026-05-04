@@ -12,15 +12,6 @@ Industrial Engineering · Optimization · Manufacturing Systems · Data Science
 
 </div>
 
----
-
-## About
-
-I am an Industrial Engineering student focused on **combinatorial optimization**, **computational optimization**, **metaheuristics**, and **quantum optimization**.  
-My academic background spans optimization, operations research, manufacturing systems, simulation, data science, and human factors.
-
----
-
 ## Core Competencies
 
 <table>
