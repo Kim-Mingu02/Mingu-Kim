@@ -77,7 +77,7 @@ Industrial Engineering · Optimization · Manufacturing Systems · Data Science
 | Period | Experience | Description |
 |---|---|---|
 | 2025 | **OptiGrandChallenge 수상** | 팀장 , 예공제미남들 |
-| 2025 08 ~ | **랩 인턴, 생산시스템최적화연구실** | Paper writing · Non-stationary time-series forecasting ML task · 2026 기초연구실 핵심연구 C 연구제안서 작성 |
+| 2025 08 ~ | **랩 인턴, 생산시스템최적화연구실** | 논문 작성(ing) · Non-stationary time-series forecasting ML task · 2026 기초연구실 핵심연구 C 연구제안서 작성 |
 
 ### Research Keywords
 
