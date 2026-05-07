@@ -89,7 +89,7 @@ Industrial Engineering · Optimization · Manufacturing Systems · Data Science
 
 | Project | Area | Keywords |
 |---|---|---|
-| [시공간 복합데이터를 활용한 전력수요 예측 개선](projects/데이터 마이닝) | Forecasting · Data Science | Spatio-temporal Data · Demand Forecasting · ML |
+| [시공간 복합데이터를 활용한 전력수요 예측 개선](projects/데이터%20마이닝) | Forecasting · Data Science | Spatio-temporal Data · Demand Forecasting · ML |
 | [PC방 좌석 레이아웃 개선 시뮬레이션](projects/pc-room-seat-layout-simulation.md) | Simulation · Layout | Facility Layout · Simulation · Customer Flow |
 | [Process Capability and SPC Case Study - Craft Beer Brewery in Indiranagar, India](projects/craft-beer-spc-case-study.md) | Quality Engineering | SPC · Process Capability · Quality Control |
 | [2-Phase QFD for K2C1 Requirements Analysis](projects/k2c1-qfd-requirements-analysis.md) | QFD · Decision Analysis | QFD · Requirements Analysis · Prioritization |
