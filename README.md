@@ -104,6 +104,9 @@ Industrial Engineering · Optimization · Manufacturing Systems · Data Science
 | Project | Area | Keywords |
 |---|---|---|
 | [D-wave VRP - GA ](projects/Dwave) | Quantum computiong | VRP , Metaheuristics |
+
+KakaoTalk_20251028_233012016.png
+
 ---
 
 ## Professional Interests
