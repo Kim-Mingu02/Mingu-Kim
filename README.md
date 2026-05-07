@@ -94,7 +94,6 @@ Industrial Engineering · Optimization · Manufacturing Systems · Data Science
 | [Process Capability and SPC Case Study - Craft Beer Brewery in Indiranagar, India](projects/QC) | Quality Engineering | SPC · Process Capability · Quality Control |
 | [2-Phase QFD for K2C1 Requirements Analysis](projects/QC) | QFD · Decision Analysis | QFD · Requirements Analysis · Prioritization |
 | [고객 경험 기반 무인 세탁소 공간배치 Layout 최적화](projects/시설계획및물류시스템) | Layout Optimization | Customer Experience · Facility Layout · Optimization |
-| [서울 통근 수요 대응을 위한 경기권 환승주차장 최적 입지 선정](projects/시설계획및물류시스템) | Location Optimization | P-median · Demand Allocation · Transportation |
 | [안전벨트 제조공정 이해 및 개선](projects/제조공학) | Process Improvement | Manufacturing Process · Bottleneck Analysis · Improvement |
 | [Roll-On/Roll-Off 선박 수요 배치최적화 및 무게 밸런싱](projects/최적화와계산지능) | Loading Optimization | Assignment · Weight Balancing · Maritime Logistics |
 | [AI 신뢰도와 설명 제공 여부가 금융 투자 의사결정에 미치는 영향 분석](projects/인간공학) | Human-AI Interaction | AI Trust · Explainability · Decision Making |
