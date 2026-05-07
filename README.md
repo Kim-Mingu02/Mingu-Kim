@@ -100,6 +100,7 @@ Industrial Engineering · Optimization · Manufacturing Systems · Data Science
 | [동해선 단선구간 열차 사고 회복 리스케쥴링](projects/종합설계프로젝트) | Rescheduling Optimization | Railway Scheduling · Disruption Recovery · Optimization |
 
 ## Trial
+
 |---|---|---|
 | [D-wave VRP - GA ](projects/Dwave) | Forecasting · Data Science | Spatio-temporal Data · Demand Forecasting · ML |
 ---
