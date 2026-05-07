@@ -101,8 +101,9 @@ Industrial Engineering · Optimization · Manufacturing Systems · Data Science
 
 ## Trial
 
+| Project | Area | Keywords |
 |---|---|---|
-| [D-wave VRP - GA ](projects/Dwave) | Forecasting · Data Science | Spatio-temporal Data · Demand Forecasting · ML |
+| [D-wave VRP - GA ](projects/Dwave) | Quantum computiong | VRP , Metaheuristics |
 ---
 
 ## Professional Interests
