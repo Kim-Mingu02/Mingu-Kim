@@ -114,7 +114,4 @@ Quantum Optimization
 ---
 
 <div align="center">
-
-**Focused on building optimization models that connect theory, computation, and real industrial systems.**
-
 </div>
