@@ -99,6 +99,8 @@ Industrial Engineering · Optimization · Manufacturing Systems · Data Science
 | [AI 신뢰도와 설명 제공 여부가 금융 투자 의사결정에 미치는 영향 분석](projects/인간공학) | Human-AI Interaction | AI Trust · Explainability · Decision Making |
 | [동해선 단선구간 열차 사고 회복 리스케쥴링](projects/종합설계프로젝트) | Rescheduling Optimization | Railway Scheduling · Disruption Recovery · Optimization |
 
+## Trial
+| [D-wave VRP - GA ](projects/Dwave) | Forecasting · Data Science | Spatio-temporal Data · Demand Forecasting · ML |
 ---
 
 ## Professional Interests
