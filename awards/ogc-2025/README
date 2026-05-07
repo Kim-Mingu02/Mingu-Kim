@@ -1,17 +1,3 @@
-<div align="center">
-
-# OGC 2025 · OptiGrandChallenge
-
-**Team Leader · 예공제미남들**  
-Graph-based Loading · Unloading · Rehandling Optimization
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)](src/myalgorithm_final.py)
-[![Optimization](https://img.shields.io/badge/Optimization-0064FF?style=flat-square)](#algorithm-design)
-[![Feasible Result](https://img.shields.io/badge/Feasible-True-3182F6?style=flat-square)](results/results_prob5.json)
-[![Objective](https://img.shields.io/badge/Obj-5843.0-4E86FF?style=flat-square)](results/results_prob5.json)
-
-</div>
-
 ---
 
 ## Overview
