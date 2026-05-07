@@ -91,8 +91,8 @@ Industrial Engineering · Optimization · Manufacturing Systems · Data Science
 |---|---|---|
 | [시공간 복합데이터를 활용한 전력수요 예측 개선](projects/데이터%20마이닝) | Forecasting · Data Science | Spatio-temporal Data · Demand Forecasting · ML |
 | [PC방 좌석 레이아웃 개선 시뮬레이션](projects/pc-room-seat-layout-simulation.md) | Simulation · Layout | Facility Layout · Simulation · Customer Flow |
-| [Process Capability and SPC Case Study - Craft Beer Brewery in Indiranagar, India](projects/craft-beer-spc-case-study.md) | Quality Engineering | SPC · Process Capability · Quality Control |
-| [2-Phase QFD for K2C1 Requirements Analysis](projects/k2c1-qfd-requirements-analysis.md) | QFD · Decision Analysis | QFD · Requirements Analysis · Prioritization |
+| [Process Capability and SPC Case Study - Craft Beer Brewery in Indiranagar, India](projects/QC) | Quality Engineering | SPC · Process Capability · Quality Control |
+| [2-Phase QFD for K2C1 Requirements Analysis](projects/QC) | QFD · Decision Analysis | QFD · Requirements Analysis · Prioritization |
 | [고객 경험 기반 무인 세탁소 공간배치 Layout 최적화](projects/laundromat-layout-optimization.md) | Layout Optimization | Customer Experience · Facility Layout · Optimization |
 | [서울 통근 수요 대응을 위한 경기권 환승주차장 최적 입지 선정](projects/commuter-park-and-ride-location.md) | Location Optimization | P-median · Demand Allocation · Transportation |
 | [안전벨트 제조공정 이해 및 개선](projects/seatbelt-manufacturing-improvement.md) | Process Improvement | Manufacturing Process · Bottleneck Analysis · Improvement |
