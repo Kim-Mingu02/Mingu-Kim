@@ -7,8 +7,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)](#source-code--files)
 [![Award](https://img.shields.io/badge/Award-도전상-0064FF?style=flat-square)](#award-record)
-[![Feasible](https://img.shields.io/badge/Feasible-True-3182F6?style=flat-square)](results/results_prob5.json)
-[![Objective](https://img.shields.io/badge/Objective-5843.0-4E86FF?style=flat-square)](results/results_prob5.json)
+
 
 </div>
 
