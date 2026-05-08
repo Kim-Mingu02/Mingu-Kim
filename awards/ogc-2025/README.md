@@ -350,9 +350,6 @@ Step 6. 예약 대상 수요가 도착하면 해당 위치에 우선 배치한�
 
 <div align="center">
 
-[← Back to OGC 2025](README.md)
-
-</div>
 
 
 [← Back to Main Profile](../../README.md)
