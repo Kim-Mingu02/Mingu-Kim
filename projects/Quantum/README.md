@@ -21,11 +21,11 @@
   <tr>
     <td width="50%" align="center">
       <img src="./KakaoTalk_20251028_233012016.png" width="100%" alt="Visualization 1">
-      <br><sub>Figure 1</sub>
+      <br><sub>D Wave 대쉬보드</sub>
     </td>
     <td width="50%" align="center">
       <img src="./KakaoTalk_20251028_233025628.png" width="100%" alt="Visualization 2">
-      <br><sub>Figure 2</sub>
+      <br><sub>D Wave 대쉬보드 </sub>
     </td>
   </tr>
   <tr>
