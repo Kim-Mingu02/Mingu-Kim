@@ -54,13 +54,7 @@ OGC 2025 제출 및 실험에 사용한 코드, 문제 파일, 결과 파일, �
 # OGC 2025 선박 수요 배치 최적화 알고리즘 설명
 
 **Ro-Ro 선박 내 차량 수요 적재·하역·재배치 휴리스틱**  
-Demand Allocation · Rehandling Minimization · Passageway Reservation · Bottleneck-Aware Loading
 
-[← Back to OGC 2025](README.md) · [Main Algorithm](src/myalgorithm_final.py) · [Utility Code](src/util.py) · [Results](results/results_prob5.json)
-
-</div>
-
----
 
 ## 1. 문제 정의
 
