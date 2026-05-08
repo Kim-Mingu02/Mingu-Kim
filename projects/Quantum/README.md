@@ -10,16 +10,13 @@
 
 | File | Description |
 |---|---|
-| [`gavrp.py`](./gavrp.py) | 기본 GAVRP 알고리즘 구현 파일입니다. |
-| [`gavrp_qgm.py`](./gavrp_qgm.py) | QGM 기반 또는 개선 알고리즘 구현 파일입니다. |
-| [`gavrp_viz.py`](./gavrp_viz.py) | 결과 시각화를 위한 Python 파일입니다. |
+| [`gavrp.py`](./gavrp.py) | VRP문제에 대한 GA 알고리즘 구현 파일입니다. |
+| [`gavrp_qgm.py`](./gavrp_qgm.py) | 하이브리드 양자어닐링 QPU 알고리즘 구현 파일입니다. |
+| [`gavrp_viz.py`](./gavrp_viz.py) | 결과 시각화를 위한 파일입니다. |
 
 ---
 
 ## Visualization Results
-
-아래 이미지는 repository root에 업로드된 PNG 파일을 README에서 직접 표시한 것입니다.
-
 <table>
   <tr>
     <td width="50%" align="center">
@@ -56,7 +53,4 @@
 ---
 
 ## Notes
-
-- 이미지 파일과 `README.md`가 같은 폴더에 있으므로 `./파일명.png` 형태의 상대 경로를 사용했습니다.
-- GitHub에서는 파일명이 대소문자까지 정확히 일치해야 이미지가 정상적으로 표시됩니다.
-- 이미지가 너무 크게 보이면 `width="100%"` 값을 `width="80%"` 또는 `width="600"`처럼 조정하면 됩니다.
+VRP 문제는 솔로몬 데이터 셋을 사용하였고 양자 어닐링을 사용한 문제가 300 세대를 도달하는것에 있어 2배 가까운 속도를 보여주었고 해의 품질 또한 더 좋음을 확인하였습니다. 
