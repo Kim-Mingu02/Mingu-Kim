@@ -31,11 +31,11 @@
   <tr>
     <td width="50%" align="center">
       <img src="./KakaoTalk_20251028_233056827.png" width="100%" alt="Visualization 3">
-      <br><sub>Figure 3</sub>
+      <br><sub>GA 알고리즘 </sub>
     </td>
     <td width="50%" align="center">
       <img src="./KakaoTalk_20251028_233137686.png" width="100%" alt="Visualization 4">
-      <br><sub>Figure 4</sub>
+      <br><sub>양자 하이브리드 GA 알고리즘 </sub>
     </td>
   </tr>
   <tr>
@@ -53,4 +53,4 @@
 ---
 
 ## Notes
-VRP 문제는 솔로몬 데이터 셋을 사용하였고 양자 어닐링을 사용한 문제가 300 세대를 도달하는것에 있어 2배 가까운 속도를 보여주었고 해의 품질 또한 더 좋음을 확인하였습니다. 
+VRP 문제는 솔로몬 데이터 셋을 사용하였고 양자 어닐링을 사용한 문제가 300 세대를 도달하는것에 있어 2배 이상의 속도를 보여주었고 해의 품질 또한 더 좋음을 확인하였습니다. 
